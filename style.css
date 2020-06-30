@@ -16,8 +16,8 @@ h2{
 .half-width{
     width: 40%;
     float: left;
-    margin-left: 5%;
-    padding-left: 5%;
+    margin-left: 4%;
+    padding-left: 2%;
 }
 .half-width img{
     width: 70%;
@@ -66,6 +66,11 @@ section{
 footer p{
     text-align: center;
     font-size: 15px;
+}
+.middle{
+    text-align: center;
+    text-shadow: chocolate;
+    color: chocolate;
 }
 
 
